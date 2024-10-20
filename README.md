@@ -6,4 +6,5 @@ Includes:
 
 - Commands
 - Tutorials
-- Git aithentication using SSH
+- Videos
+- Projects
